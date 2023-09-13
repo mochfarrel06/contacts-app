@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "preact": "^10.10.6",
-    "prop-types": "^15.8.1"
+    "prop-types": "^15.8.1",
+    "react-router-dom": "^6.15.0"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.3.0",
